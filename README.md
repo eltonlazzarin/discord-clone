@@ -34,9 +34,9 @@
 	<img alt="GitHub Image Header" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/githubimageheader.png" />
 </h1>
 
-<p>Ecoleta is something like a marketplace, being a connection between a company or entities that collect organic and inorganic waste and people aware of the proper disposal of this waste.
+<p>This is a project that consists of creating a clone of the Discord website that was conceived from an online class. The project was developed in ReactJS together with TypeScript and other tools.
 
-This is a project developed during the #NextLevelWeek. An online programming event given by Rocketseat that shows how to use the JavaScript / TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on mobile using the Expo.</p>
+In addition to the UI that looks like Discord's, some features were created in the project, including being able to type and view messages in real time, giving a more realistic appearance.</p>
 
 ## 🚀 Technologies
 
