@@ -48,11 +48,10 @@ Technologies that I used to develop this frontend app
 
 - [ReactJS](https://nodejs.org/en)
 - [TypeScript](https://www.typescriptlang.org)
-- [Axios](https://github.com/axios/axios)
-- [React Router v5](https://github.com/ReactTraining/react-router)
-- [React-Icons](http://react-icons.github.io/react-icons/)
-- [React-Dropzone](https://github.com/react-dropzone/react-dropzone)
-- [React-Leaflet](https://react-leaflet.js.org)
+- [React-Icons](https://github.com/wwayne/react-tooltip)
+- [Styled-Icons](https://styled-icons.js.org)
+- [React-Tooltip](https://react-leaflet.js.org)
+- [Styled-Components](https://styled-components.com)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Getting started
