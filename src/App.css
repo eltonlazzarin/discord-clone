@@ -1,0 +1,10 @@
+.custom {
+  font-size: 15px;
+  font-weight: bolder;
+  background-color: rgb(0, 0, 0) !important;
+  border-radius: 6px;
+}
+
+.custom::after {
+  border-right-color: rgb(0, 0, 0) !important;
+}
