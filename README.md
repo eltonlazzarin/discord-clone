@@ -1,2 +1,2 @@
-# discord-ui-clone 
+# discord-ui-clone
 Discord UI Clone
