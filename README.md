@@ -18,6 +18,8 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/discord-clone">
 
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/discord-clone">
+
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/0a2b6f7e-7dc9-4d2c-a063-9d4ef384ca71/deploy-status">
 </p>
 
 <p align="center">
