@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/nlw1.svg" />
+	<img alt="Discord logo" src="https://github.com/eltonlazzarin/discord-clone/blob/master/screenshots/discord.svg" />
 </h1>
 
 <h3 align="center">
