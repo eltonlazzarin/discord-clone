@@ -31,7 +31,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/ecoleta.gif" />
+	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/discord-clone/blob/master/screenshots/discordclone.gif" />
 </h1>
 
 <p>This is a project that consists of creating a clone of the Discord website that was conceived from an online class. The project was developed in ReactJS together with TypeScript and other tools.
