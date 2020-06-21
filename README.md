@@ -36,7 +36,7 @@
 
 <p>This is a project that consists of creating a clone of the Discord website that was conceived from an online class. The project was developed in ReactJS together with TypeScript and other tools.
 
-In addition to the UI that looks like Discord's, some features were created in the project, including being able to type and view messages in real time, giving a more realistic appearance.</p>
+In addition to the UI that looks like Discord, some features were created in the project, including being able to type and view messages in real time, giving a more realistic and interactive appearance.</p>
 
 ## 🚀 Technologies
 
