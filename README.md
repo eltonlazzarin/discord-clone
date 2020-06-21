@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-frontend-technologies">Frontend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-frontend-getting-started">Frontend Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute-frontend">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-frontend-license">Frontend License</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
 </p>
 
 ## 👨🏻‍💻 About the project
@@ -38,7 +38,7 @@
 
 This is a project developed during the #NextLevelWeek. An online programming event given by Rocketseat that shows how to use the JavaScript / TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on mobile using the Expo.</p>
 
-## 🚀 Frontend Technologies
+## 🚀 Technologies
 
 <h1 align="center">
 	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/ecoleta.gif" />
@@ -55,7 +55,7 @@ Technologies that I used to develop this frontend app
 - [React-Leaflet](https://react-leaflet.js.org)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
-## 💻 Frontend getting started
+## 💻 Getting started
 
 ### Requirements
 
@@ -80,7 +80,7 @@ $ npm i
 $ npm start
 ```
 
-## 🤔 How to contribute frontend
+## 🤔 How to contribute
 
 **Follow the steps below**
 
@@ -102,6 +102,6 @@ $ git push origin your-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📝 Frontend License
+## 📝 License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/discord-clone/blob/master/LICENSE) for more information.
