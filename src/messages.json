@@ -1,0 +1,134 @@
+[
+  {
+    "author": "!Miaplop",
+    "date": "21/06/2020",
+    "content": "Fala galera 😀, tudo certo? Gostaria que alguém me desse uma idéia de clone. Quero clonar UI de algum site. Alguma sujestão?",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "!Miaplop",
+    "date": "21/06/2020",
+    "content": "Pode ser qualquer uma. Se alguém puder ajudar agradeço 👊👊",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "_&m157ylud1cr0u5",
+    "date": "21/06/2020",
+    "content": "nossa cara, tem várias páginas que você poderia clonar. Em que linguagem pretende fazer? 💻",
+    "hasMention": true,
+    "mention": "!Miaplop",
+    "isBot": false
+  },
+  {
+    "author": "!Miaplop",
+    "date": "21/06/2020",
+    "content": "Tô pensando em fazer em ReactJS talvez. 🤓 Mais pra pratica mesmo. 👨🏻‍💻",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "_&m157ylud1cr0u5",
+    "date": "21/06/2020",
+    "content": "que massa! 👍 Adoro ReactJS também 🤩. Estes dias vi um repositório no GitHub onde um cara fez a UI do Discord. Ficou muito show, até dei uma start no repo dele pela criatividade. Dá uma olhada lá, ele fez em React. 😃",
+    "hasMention": true,
+    "mention": "!Miaplop",
+    "isBot": false,
+    "url": "https://github.com/eltonlazzarin/discord-ui-clone",
+    "repo": "eltonlazzarin/discord-ui-clone",
+    "description": "Discord's detailed user interface developed with ReactJS. Contribute to eltonlazzarin/discord-ui-clone development by creating an account on GitHub."
+  },
+  {
+    "author": "!Miaplop",
+    "date": "21/06/2020",
+    "content": "Valeu pela dica. 👍 Vou dar uma olhada",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "Elton Lazzarin",
+    "date": "21/06/2020",
+    "content": "obrigado pela indicação 🙂🙂! Apenas criei mais funcionalidades na UI a partir do projeto base que o Guilherme Rodz desenvolveu. Fazendo assim a dica que ele deu, para ir além 🚀🚀🚀",
+    "hasMention": true,
+    "mention": "_&m157ylud1cr0u5",
+    "isBot": false
+  },
+  {
+    "author": "_)(Валераи да саи",
+    "date": "21/06/2020",
+    "content": "Ficou bom mesmo. Curti pacas... 🤓😎",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "Elton Lazzarin",
+    "date": "21/06/2020",
+    "content": "Aproveitando... quem puder, vai lá e confira outros projetos desenvolvidos em NodeJS, ReactJS, React Native e outras. 🚀🚀😃",
+    "hasMention": true,
+    "mention": "everyone",
+    "isBot": false,
+    "url": "https://github.com/eltonlazzarin",
+    "repo": "github.com/eltonlazzarin",
+    "description": "Started programming in C++, with knowledge in HTML5, CSS3, JavaScript languages and is currently improving his knowledge of Node.js, ReactJS and React Native."
+  },
+  {
+    "author": "Benny Misty",
+    "date": "21/06/2020",
+    "content": "Foi excelente o vídeo dele... muito aproveito. Aprendi muita coisa no vídeo. Além do React, teve muito display grid e flex",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "Guilherme Rodz",
+    "date": "21/06/2020",
+    "content": "Valeu pela força galera 💪. E... hoje é meu aniversário! 🥳🍰🎂",
+    "hasMention": true,
+    "mention": "everyone",
+    "isBot": false
+  },
+  {
+    "author": "Benny Misty",
+    "date": "21/06/2020",
+    "content": "Parabéns... 👏👏👏🥳",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "_)(Валераи да саи",
+    "date": "21/06/2020",
+    "content": "👏🥳",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "(_!Van Mammoth",
+    "date": "21/06/2020",
+    "content": "partiu jogar? 🎮🎮",
+    "hasMention": true,
+    "mention": "everyone",
+    "isBot": false
+  },
+  {
+    "author": "Misty Meek",
+    "date": "21/06/2020",
+    "content": "👍👊 Só se for agora!",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "پیډرو هینریک",
+    "date": "21/06/2020",
+    "content": "Bora nessa... 🖥🖥",
+    "hasMention": false,
+    "isBot": false
+  },
+  {
+    "author": "Diego Fernandes",
+    "date": "21/06/2020",
+    "content": "me carrega no LoL e CS de novo por favor?",
+    "hasMention": true,
+    "mention": "Guilherme Rodz",
+    "isBot": true
+  }
+]
